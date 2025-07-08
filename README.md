@@ -9,7 +9,7 @@ There are currently three methods to install the Ansible Automation platform com
 2. RPM Installer 
 3. Operator Installer (for OpenShift)
 
-The containerized installer will deploy the following AAP components as containers on one or more hosts. See the [Ansible Automation Platform Architecture](https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.5/html/planning_your_installation/aap_architecture#aap_architecture) docs for more details.
+The containerized installer will deploy the following AAP components as containers on one or more hosts. See the [Planning your AAP Installation](https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.5/html-single/planning_your_installation/index#planning-installation) docs for more details.
 - Platform Gateway
 - Private Automation Hub
 - Ansible Controller
